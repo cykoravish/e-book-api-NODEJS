@@ -11,7 +11,7 @@ Make sure you have Node.js and npm installed on your machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/book-api.git
+   git clone https://github.com/cykoravish/e-book-api-NODEJS.git
    
 2. Install Dependencies
     cd book-api
